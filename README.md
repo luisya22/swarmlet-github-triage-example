@@ -87,17 +87,7 @@ Response (existing issue found):
 ## ⚠️ Warning
 This project is intended as a demonstration and learning tool. It’s a minimal example meant to showcase how you can build LLM-powered workflows using Swarmlet.
 
-Please don’t use this as-is in production. There’s no authentication, no rate limiting, and no protections against abuse or bad input. If you do want to productionize this, you’ll need to:
-
-Add proper API security (auth, rate limiting, input validation)
-
-Handle LLM output safely
-
-Set up retry/error handling for GitHub API failures
-
-Sanitize error logs before publishing publicly
-
-Use this to learn, prototype, and explore. Build responsibly when you’re ready to take it further 🚀
+Please don’t use this as-is in production. There’s no authentication, no rate limiting, and no protections against abuse or bad input.
 
  
 
