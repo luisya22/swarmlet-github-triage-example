@@ -42,6 +42,7 @@ You should see:
 ```bash
 Starting API server on port :8000
 ```
+<br>
 ## ⚙️ How It Works
 
 Depending on whether a similar issue already exists, it'll either find and return that or create a brand new one for you.
@@ -84,6 +85,8 @@ Response (existing issue found):
   "issue_url": "https://github.com/myorg/myrepo/issues/42"
 }
 ```
+<br>
+
 ## ⚠️ Warning
 This project is intended as a demonstration and learning tool. It’s a minimal example meant to showcase how you can build LLM-powered workflows using Swarmlet.
 
