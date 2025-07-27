@@ -6,7 +6,7 @@ This is a minimal example of using [Swarmlet](https://github.com/luisya22/swarml
 2. If a match is found, respond with the URL of the existing issue.
 3. If not, automatically create a new GitHub issue using your credentials.
 
----
+<br>
 
 ## 🚀 Quick Start
 
